@@ -37,6 +37,7 @@
 - 수도권과 비수도권 사이의 피해자 발생 수가 크게 차이나며, 대부분 수도권과 부산에서 많은 피해 발생
   ![image](https://github.com/liatamot/Financial-Fraud-Prevention/assets/138054658/6911a663-4f6d-47ae-860b-5972c4005b9f)
 - 2010년생이 가장 잦은 빈도수의 피해 사례를 나타내고 있으며, 주요 피해 연령대의 피해금액은 100만원 미만(5만원 미만 케이스가 최다 빈도수)으로 나타남
+   
   ![image](https://github.com/liatamot/Financial-Fraud-Prevention/assets/138054658/c12f7f29-2a6c-431e-93d2-c88a8a638eac)
 - 반면 중장년층(1960-1980) 피해자의 평균 피해 금액은 다른 연령대에 비해 상대적으로 높은 것으로 나타남
   ![image](https://github.com/liatamot/Financial-Fraud-Prevention/assets/138054658/c67f7c04-43b6-41b7-9c1a-8ca1bd3c93db)
